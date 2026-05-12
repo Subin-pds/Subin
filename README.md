@@ -2,7 +2,7 @@
 
 <p align="left">
 
-  <strong>Generative AI Engineer</strong> at Infosys · 4 years IT · 3 years building production AI systems<br/>
+  <strong>Generative AI Engineer</strong> at Infosys · 4.3 years IT · 3 years building production AI systems<br/>
 
   Currently building <strong>100 AI Agents</strong> from scratch — one agent, one concept, one week at a time.
 
@@ -85,5 +85,3 @@ DBs: FAISS · Pinecone · Chroma · SQL
 ### 📫 Let's connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) ← update this
-
-- 📍 Open to GenAI Engineer roles in UAE — available from Aug 2026
