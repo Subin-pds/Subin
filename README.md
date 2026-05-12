@@ -84,4 +84,4 @@ DBs: FAISS · Pinecone · Chroma · SQL
 
 ### 📫 Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) ← update this
+- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/subin-sunil-kumar-6242b5118/)) ← update this
